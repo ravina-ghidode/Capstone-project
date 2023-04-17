@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Contracts",
+    "\\Controllers",
+    "\\DTO's",
+    "\\DTO's\\Employee",
+    "\\DTO's\\User",
+    "\\Entities",
+    "\\Migrations",
+    "\\Repositories"
+  ],
+  "SelectedNode": "\\Controllers\\AccountController.cs",
+  "PreviewInSolutionExplorer": false
+}
